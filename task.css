@@ -1,0 +1,302 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.si{
+    
+    width: 330px;
+    height: 500px;
+    position: absolute;
+    left:910px;
+    top: 2px;
+    margin: 8px;
+  }
+.sid
+{
+  padding: 10px;
+  margin: 4px;
+  background-color: rgba(224, 217, 217, 0.909);
+  display: flex;
+  border-radius: 8px;
+}
+.simg img{
+    width: 50px;
+    height: 70px;
+  }
+  .sicon{
+    padding: 4px;
+  }
+  .sicon div:nth-child(1){
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: 600;
+    
+  }
+ .sicon div:nth-child(2){
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+  }
+  .sicon div:nth-child(3){
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-small;
+  }
+  .sicon span:nth-child(1){
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-small;
+    text-decoration: line-through;
+  }
+  .sicon span:nth-child(2){
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    font-weight: 600;
+    
+  }
+  .sicon span:nth-child(3){
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 8px;
+    padding: 6px;
+    margin: 5px;
+    background-color: rgb(62, 228, 90);
+    border-radius: 10px;
+  }  
+.sid button{
+    width: 80px;
+    height: 30px;
+    border-radius: 15px;
+    position: relative;
+    left: 20px;
+    top: 20px;
+    font-weight: bold;
+  }
+
+#pt1{
+    width: 900px;
+    padding: 10px;
+}
+#details{
+    margin: 5px;
+    padding: 10px;
+    height: 15px;
+    background-color: #cec4c4a6;
+    text-align: center;
+    border-radius: 10px;
+}
+#as1{
+    background-color: #cec4c4a6;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 5px;
+}
+.heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    margin: 2px;
+    padding: 5px;
+    position: relative;
+    top: 8px;
+}
+.hc1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    font-size: small;
+    word-spacing: 3px;
+    line-height: 18px;
+}
+.hc2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+}
+.sep{
+    width: fit-content;
+    padding: 8px;
+    margin: 10px;
+    background-color: rgb(174, 172, 172);
+    border-radius: 8px;
+    font-size: small;
+}
+#pt2{
+    width: 1100px;
+    padding: 20px;
+    margin: 10px;
+    position: relative;
+}
+#mg{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    height: 100%;
+  }
+#co1{
+    width: 200px;
+    top: 573px;
+    left: 20px;
+    padding: 8px;
+   
+}
+.cl{
+    padding: 5px;
+    margin: 2px; 
+    position: relative;
+    top: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+}
+.sp{
+    padding:8px;
+    position: relative;
+    top: 10px;
+}
+.btn{
+    width: 180px;
+    background-color: #514f5241;
+    padding: 2px;
+    position: relative;
+    top: 20px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.btn span:nth-child(1){
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+}
+.btn span:nth-child(2){
+    justify-content: end;
+    font-size: small;
+}
+.co2{
+    width: 200px;
+    height: 220px;
+    position: relative;
+    top: 30px;
+    border-radius: 0px 0px 8px 8px;
+    font-size: small;
+}
+.co2 div:nth-child(1){
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+}
+.for{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    font-weight: bolder;
+    position: relative;
+    top: 8px;
+}
+.co2 div:nth-child(3){
+    padding: 8px;
+    margin: 5px;
+}
+.co2 div:nth-child(5){
+    padding: 10px;
+    position: relative;
+    top: 20px;
+   font-size: small;
+}
+.co2 div:nth-child(6){
+    padding: 10px;
+    position: relative;
+    top: 20px;
+    font-size: small;
+}
+.img{
+    width: 220px;
+    height: 650px;
+    padding : 10px;
+    margin: 4px;
+    border-radius: 8px;
+    position: relative;
+    background-color: #514f5218;
+    font-size: small;
+    padding-bottom: 100px;
+}
+.f1{
+    background-color: #cec4c4a6;
+    margin: 10px;
+    padding: 1px;
+}
+.f2{
+    background-color: #cec4c4a6;
+    margin: 10px;
+    top: 10px;
+    padding: 6px;
+}
+#fp{
+    position: relative;
+    top: 50px;
+}
+#dp{
+    transform: translate(0,70px);
+    margin: 10px;
+}
+.rating  {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  padding: 6px;
+  width: 100px;
+}
+.rate{
+    position: relative;
+    top: 60px;
+    margin: 10px;
+}
+.ra1{
+    background-color: #514f5241;
+    border-radius: 5px;
+    font-size: small;
+    padding: 4px;
+}
+.m1{
+    padding: 10px;
+}
+.products{
+   position: relative;
+    top:90px ;
+    left: 30px;
+    padding: 30px;
+}
+#mg1{
+    width: 100%;
+    height: 40%;
+ object-fit: cover;
+   transform: translate(-5px, 0);
+}
+.pro1{
+    display: flex;
+    padding: 30px;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    width: 1100px;
+    box-shadow: 0px 0px 10px;
+    border-radius: 8px;
+}
+.prod img{
+    width: 50px;
+}
+.star-active{
+    font-size: 24px;
+    color: #ffcc00;
+  }
+  .star{
+    color: #ccc;
+    font-size: 24px;
+  }
+
+  .num{
+    width: 40px;
+    height: 25px;
+    font-size: small;
+    font-weight: lighter;
+    align-items: center;
+    display: flex;
+    position: relative;
+    left: 10px;
+    top: 7px;
+    border-radius: 6px;
+    justify-content: space-evenly;
+  }
+  
