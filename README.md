@@ -1,1 +1,1 @@
-# Medingen-<Rudhra A>
+# Medingen-Rudhra A
